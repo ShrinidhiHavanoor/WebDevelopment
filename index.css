@@ -1,0 +1,28 @@
+#btn1{
+    color:#fff;
+    background-color: aquamarine;
+}
+#btn2{
+    color:#fff;
+    background-color: rgb(7, 0, 136);
+}
+#btn1:hover{
+    color:#fff;
+    background-color: red;
+    cursor: pointer;
+}
+#btn2:hover{
+    color:#fff;
+    background-color: red;
+    cursor:pointer;
+}
+#btn1:active{
+    color:#fff;
+    background-color: green;
+    cursor:grab;
+}
+#btn2:active{
+    color:#fff;
+    background-color: green;
+    cursor:grab;
+}

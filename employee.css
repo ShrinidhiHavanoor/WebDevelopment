@@ -1,0 +1,82 @@
+table
+{
+    color:black;
+    background-color: black;
+}
+th,td
+{
+    color:black;
+    background-color:black;
+}
+p
+{
+    letter-spacing: 1.5px;
+}
+section{
+    background-image: url("https://i.pinimg.com/564x/09/da/92/09da92124192f75a979214d9ec070201.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1.5;
+}
+body
+{
+    color:#003566;
+    letter-spacing: 1.5px;
+}
+h1,h2
+{
+    color:#001d3d;
+    background-color: paleturquoise;
+    text-align: center;
+    border-radius: 5px;
+    margin:10px;
+    text-decoration: underline ;
+}  
+form
+{
+    color:#f77f00;
+}
+
+form
+{
+    background-color:rgb(116, 116, 167);
+    border-radius:10px;
+    margin:10px;
+    padding:30px;
+}
+p
+{
+    background-color: rgb(98, 85, 85);
+}
+button:hover
+{
+    background-color:#ff0000;
+    color: rgb(232, 228, 228);
+}
+a
+{
+    font-weight: 500;
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+button:active
+{
+    background-color: #00ff00;
+    color: rgb(232, 228, 228);
+}
+.list
+{
+    background-color:red;
+    margin:10px;
+}
+button{
+    cursor: progress;
+}
+ul{
+    line-height: 2;
+    letter-spacing: 1.5px;
+    font-weight:bolder;
+}
