@@ -8,7 +8,7 @@ btns[1].onclick=deleteElem
 function insertElem()
 {
     const h2=document.createElement('h2')
-    h2.innerText='Fcuk This is a heading!'
+    h2.innerText='This is a heading!'
     document.body.prepend(h2)
 }
 function deleteElem()
